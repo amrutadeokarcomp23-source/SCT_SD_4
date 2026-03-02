@@ -23,5 +23,7 @@ cd SCT_SD_4
 
 ## images
 
-![Screenshot 1](images/image1.png)
-![Screenshot 2](images/image2.png)
+![Screenshot 1](docs/images/image1.png)
+![Screenshot 2](docs/images/image2.png)
+
+
