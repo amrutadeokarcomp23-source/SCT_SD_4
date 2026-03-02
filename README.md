@@ -24,7 +24,7 @@ cd SCT_SD_4
 ## images
 
 images/image1.png
-![Screenshot 2](images/image2.png)
-![Screenshot 3](images/screenshot.png)
+images/image2.png
+images/screenshot.png
 
 
